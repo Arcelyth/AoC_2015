@@ -2,3 +2,7 @@ part1
 part2
 build/
 
+*.out
+
+*.cmi
+*.cmo
