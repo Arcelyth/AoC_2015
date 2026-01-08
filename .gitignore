@@ -4,5 +4,9 @@ build/
 
 *.out
 
+# OCaml
 *.cmi
 *.cmo
+
+# Erlang
+*.beam
