@@ -1,6 +1,6 @@
 part1
 part2
-build/
+/build
 
 *.out
 
@@ -10,3 +10,4 @@ build/
 
 # Erlang
 *.beam
+
