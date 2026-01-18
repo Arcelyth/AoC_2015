@@ -3,6 +3,7 @@ part2
 /build
 
 *.out
+*.o
 
 # OCaml
 *.cmi
