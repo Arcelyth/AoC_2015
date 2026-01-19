@@ -12,3 +12,5 @@ part2
 # Erlang
 *.beam
 
+# Ada
+*.ali
