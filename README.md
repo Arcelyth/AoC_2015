@@ -16,3 +16,4 @@ Use different languages for each day's puzzles.
 - Day12: Nix
 - Day13: Perl
 - Day14: Pascal
+- Day15: Ada
