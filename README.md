@@ -17,3 +17,4 @@ Use different languages for each day's puzzles.
 - Day13: Perl
 - Day14: Pascal
 - Day15: Ada
+- Day16: Fortran
