@@ -18,3 +18,4 @@ Use different languages for each day's puzzles.
 - Day14: Pascal
 - Day15: Ada
 - Day16: Fortran
+- Day17: Nim
