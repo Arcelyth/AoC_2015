@@ -19,3 +19,4 @@ Use different languages for each day's puzzles.
 - Day15: Ada
 - Day16: Fortran
 - Day17: Nim
+- Day18: Swift
