@@ -14,3 +14,7 @@ part2
 
 # Ada
 *.ali
+
+# Scala
+.bsp/
+.scala-build/
