@@ -21,3 +21,4 @@ Use different languages for each day's puzzles.
 - Day17: Nim
 - Day18: Swift
 - Day19: Scala
+- Day20: Kotlin
