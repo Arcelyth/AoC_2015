@@ -18,3 +18,8 @@ part2
 # Scala
 .bsp/
 .scala-build/
+
+# Java/Kotlin
+*.class
+*.jar
+META-INF/
