@@ -22,3 +22,4 @@ Use different languages for each day's puzzles.
 - Day18: Swift
 - Day19: Scala
 - Day20: Kotlin
+- Day21: D
