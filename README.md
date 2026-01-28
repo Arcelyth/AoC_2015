@@ -23,3 +23,4 @@ Use different languages for each day's puzzles.
 - Day19: Scala
 - Day20: Kotlin
 - Day21: D
+- Day22: Julia
