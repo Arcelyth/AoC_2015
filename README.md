@@ -25,3 +25,4 @@ Use different languages for each day's puzzles.
 - Day21: D
 - Day22: Julia
 - Day23: Lua
+- Day24: C#
