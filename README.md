@@ -26,3 +26,4 @@ Use different languages for each day's puzzles.
 - Day22: Julia
 - Day23: Lua
 - Day24: C#
+- Day25: F#
